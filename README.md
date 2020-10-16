@@ -1,5 +1,5 @@
 # My Team Hw 1 Week 3
-homewor for week 3
+homework for week 3
 
 # MIT License
 MIT License
